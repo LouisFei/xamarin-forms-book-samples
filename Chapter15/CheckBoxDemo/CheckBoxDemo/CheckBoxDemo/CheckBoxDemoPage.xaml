@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:toolkit=
-                 "clr-namespace:Xamarin.FormsBook.Toolkit;assembly=Xamarin.FormsBook.Toolkit"
+             xmlns:toolkit="clr-namespace:Xamarin.FormsBook.Toolkit;assembly=Xamarin.FormsBook.Toolkit"
              x:Class="CheckBoxDemo.CheckBoxDemoPage">
 
     <StackLayout Padding="10, 0">
-        <StackLayout HorizontalOptions="Center"
-                     VerticalOptions="CenterAndExpand">
+        <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
             
             <toolkit:CheckBox Text="Italic"
                               FontSize="Large"
