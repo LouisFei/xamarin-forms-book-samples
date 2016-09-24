@@ -11,8 +11,9 @@ namespace WebBitmapCode
 
             Content = new Image
             {
-                 Source = ImageSource.FromUri(new Uri(uri)),
-            };
+                 //Source = ImageSource.FromUri(new Uri(uri)),
+                 Source = "http://developer.xamarin.com/demo/IMG_1415.JPG"
+        };
         }
     }
 }

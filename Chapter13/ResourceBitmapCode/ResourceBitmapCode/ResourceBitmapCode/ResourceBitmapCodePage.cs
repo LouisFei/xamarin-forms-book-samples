@@ -10,7 +10,7 @@ namespace ResourceBitmapCode
             Content = new Image
             {
                 Source = ImageSource.FromResource(
-                            "ResourceBitmapCode.Images.ModernUserInterface256.jpg"),
+                            "ResourceBitmapCode.Images.ModernUserInterface.jpg"),
                 VerticalOptions = LayoutOptions.Center,
                 HorizontalOptions = LayoutOptions.Center
             };
