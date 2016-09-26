@@ -19,6 +19,7 @@
     <StackLayout VerticalOptions="Fill">
         <StackLayout>
             <Label x:Name="label1"
+                   FontSize="25"
                    Text="Default" />
             <Slider Maximum="50"
                     Value="{Binding Source={x:Reference label1},
@@ -27,6 +28,7 @@
 
         <StackLayout>
             <Label x:Name="label2"
+                   FontSize="25"
                    Text="OneWay" />
             <Slider Maximum="50"
                     Value="{Binding Source={x:Reference label2},
@@ -36,6 +38,7 @@
 
         <StackLayout>
             <Label x:Name="label3"
+                   FontSize="25"
                    Text="OneWayToSource" />
             <Slider Maximum="50"
                     Value="{Binding Source={x:Reference label3},
@@ -45,6 +48,7 @@
 
         <StackLayout>
             <Label x:Name="label4"
+                   FontSize="25"
                    Text="TwoWay" />
             <Slider Maximum="50"
                     Value="{Binding Source={x:Reference label4},
