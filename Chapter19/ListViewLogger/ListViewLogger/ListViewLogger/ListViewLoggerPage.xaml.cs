@@ -10,7 +10,9 @@ namespace ListViewLogger
         {
             InitializeComponent();
 
-            List<DateTime> list = new List<DateTime>();
+
+            //List<DateTime> list = new List<DateTime>();
+            ObservableCollection<DateTime> list = new ObservableCollection<DateTime>();
             listView.ItemsSource = list;
 
             Device.StartTimer(TimeSpan.FromSeconds(1), () =>

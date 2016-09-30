@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail", "SelectedStudentDetail\SelectedStudentDetail\SelectedStudentDetail.csproj", "{D4341EBC-CF9E-44E6-9DE9-F2F13B6C8AAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail", "ssd\SelectedStudentDetail\SelectedStudentDetail.csproj", "{D4341EBC-CF9E-44E6-9DE9-F2F13B6C8AAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.iOS", "SelectedStudentDetail\SelectedStudentDetail.iOS\SelectedStudentDetail.iOS.csproj", "{06A0A0F9-E2C5-4DC2-B97C-4627C405DBD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.iOS", "ssd\SelectedStudentDetail.iOS\SelectedStudentDetail.iOS.csproj", "{06A0A0F9-E2C5-4DC2-B97C-4627C405DBD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.Droid", "SelectedStudentDetail\SelectedStudentDetail.Droid\SelectedStudentDetail.Droid.csproj", "{CDB430CD-934E-494A-9DE4-B602D91DD279}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.Droid", "ssd\SelectedStudentDetail.Droid\SelectedStudentDetail.Droid.csproj", "{CDB430CD-934E-494A-9DE4-B602D91DD279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.Windows", "SelectedStudentDetail\SelectedStudentDetail.Windows\SelectedStudentDetail.Windows.csproj", "{52369179-B769-478A-B432-5C34F7CC1F01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.Windows", "ssd\SelectedStudentDetail.Windows\SelectedStudentDetail.Windows.csproj", "{52369179-B769-478A-B432-5C34F7CC1F01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.WinPhone", "SelectedStudentDetail\SelectedStudentDetail.WinPhone\SelectedStudentDetail.WinPhone.csproj", "{909A8978-CAE7-499D-97CD-06D52563A68A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.WinPhone", "ssd\SelectedStudentDetail.WinPhone\SelectedStudentDetail.WinPhone.csproj", "{909A8978-CAE7-499D-97CD-06D52563A68A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolOfFineArt", "..\..\Libraries\SchoolOfFineArt\SchoolOfFineArt\SchoolOfFineArt.csproj", "{67F9D3A8-F71E-4428-913F-C37AE82CDB24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.UWP", "SelectedStudentDetail\SelectedStudentDetail.UWP\SelectedStudentDetail.UWP.csproj", "{99C925B3-68D3-4F33-928E-6142597892F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedStudentDetail.UWP", "ssd\SelectedStudentDetail.UWP\SelectedStudentDetail.UWP.csproj", "{99C925B3-68D3-4F33-928E-6142597892F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
